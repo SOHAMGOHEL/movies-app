@@ -4,7 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-
+/API
+/API testing
 # testing
 /coverage
 
@@ -16,6 +17,7 @@
 .env.local
 .env.development.local
 .env.test.local
+.env
 .env.production.local
 
 npm-debug.log*
